@@ -31,7 +31,7 @@ Follow these steps to set up and run the MERN Stack Food Ordering App locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/mern-food-ordering-app.git
+   git clone https://github.com/grimster44/mern-food-ordering-app.git
    cd mern-food-ordering-app
 This repository contains the source code for a Food Ordering App developed using the MERN (MongoDB, Express.js, React, Node.js) stack. The application allows users to browse a variety of food items, add them to the cart, and place orders. The backend server is built with Node.js and Express, MongoDB is used as the database, and the frontend is developed using React.
 
